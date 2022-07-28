@@ -1,3 +1,4 @@
 # calcular_IMC
 
-![image](https://user-images.githubusercontent.com/71338505/181578409-6565fe81-a0aa-4c3b-8c3d-effc872ae36c.png)
+
+![image](https://user-images.githubusercontent.com/71338505/181578665-6b8c9d03-16c0-487e-a715-35702591f2bd.png)
